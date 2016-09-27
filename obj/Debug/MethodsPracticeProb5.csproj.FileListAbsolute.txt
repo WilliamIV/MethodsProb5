@@ -1,0 +1,5 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\MethodsPracticeProb5\MethodsPracticeProb5\bin\Debug\MethodsPracticeProb5.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\MethodsPracticeProb5\MethodsPracticeProb5\bin\Debug\MethodsPracticeProb5.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\MethodsPracticeProb5\MethodsPracticeProb5\bin\Debug\MethodsPracticeProb5.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\MethodsPracticeProb5\MethodsPracticeProb5\obj\Debug\MethodsPracticeProb5.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\MethodsPracticeProb5\MethodsPracticeProb5\obj\Debug\MethodsPracticeProb5.pdb
